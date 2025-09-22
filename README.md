@@ -1,7 +1,3 @@
-Of course. Here is the complete, modified README with your updates integrated and the previous suggestions applied.
-
------
-
 # 📑 MQA Academic Qualification Verification System
 
 A local AI-powered system that automatically verifies academic staff qualifications against MQA (Malaysian Qualifications Agency) standards using document analysis and local LLMs with Ollama.
