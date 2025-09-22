@@ -54,8 +54,8 @@ mqa-verification-system/
 1.  **Clone and Set Up Environment**
 
     ```bash
-    git clone https://github.com/your-username/mqa-verification-system.git
-    cd mqa-verification-system
+    git clone https://github.com/wiki-girl/ollama_documents_raft.gov.git
+    cd ollama_documents_raft.gov
 
     python -m venv venv
     source venv/bin/activate  # Linux/Mac
