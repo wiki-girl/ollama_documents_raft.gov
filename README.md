@@ -69,8 +69,6 @@ mqa-verification-system/
    streamlit run app.py
    ```
    Open your browser to `http://localhost:8501`
-   ```
-   network browser to `http://10.7.127.168:8501`
 
 ## 📖 Usage Guide
 
