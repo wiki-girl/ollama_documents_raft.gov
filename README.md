@@ -231,6 +231,3 @@ Contributions are welcome\! Feel free to:
 Built with ❤️ for academic institutions in Malaysia
 
 *Note: This system provides advisory verification. Final qualification decisions should be made by human experts.*
-
-
-*Note: This system provides advisory verification. Final qualification decisions should be made by human experts.*
