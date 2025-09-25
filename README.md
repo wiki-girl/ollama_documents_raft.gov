@@ -45,8 +45,7 @@ ollama_documents_raft.gov/
 1.  **Install Ollama**
 
     ```bash
-    # Download from https://ollama.ai or use:
-    curl -fsSL https://ollama.ai/install.sh | sh
+[Download the installer](https://ollama.ai/download) and run the `.msi` file. 
     ```
 
 2.  **Pull Required Models**
