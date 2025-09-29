@@ -58,40 +58,64 @@ ollama_documents_raft.gov/
 
 ### Installation & Setup
 
-1.  **Clone and Set Up Environment**
+1.  **Create a Project Folder**
+    First, create a dedicated folder for this project to keep your files organized. Open Command Prompt and run these commands:
+    
+    ```bash
+    mkdir MQA-Project
+    cd MQA-Project
+    ```
+   This creates a new folder named MQA-Project and navigates you into it. All subsequent commands should be run from inside this directory.
+   
+2.  **Clone the Repository**
+    Next, download the project files from GitHub into your new folder.
 
     ```bash
     git clone https://github.com/wiki-girl/ollama_documents_raft.gov.git
-    cd ollama_documents_raft.gov
-
-    python -m venv venv
-    source venv/bin/activate  # Linux/Mac
-    # OR
-    .\venv\Scripts\activate   # Windows
-
-    pip install -r requirements.txt
     ```
 
-2.  **Configure Environment**
-    Create your environment file from the example.
+3.  **Navigate into the Project Directory**
+    Move into the folder you just cloned.
 
     ```bash
-    cp .env.example .env
+    cd ollama_documents_raft.gov
     ```
+    
+4.  **Create a Virtual Environment**
+    Create an isolated Python environment to avoid conflicts with other projects.
 
-    *You can edit the `.env` file if needed, but the defaults are set to use the `mistral` model.*
+    ```bash
+    python -m venv venv
+    ```
+This creates a venv folder inside your project directory.
 
-3.  **Populate the Vector Database** (First-time setup)
+5.  **Activate the Virtual Environment**
+    Activate the environment to start using it.
+
+    ```bash
+    .\venv\Scripts\activate
+    ```
+You'll know it's active when you see (venv) at the beginning of your command prompt line.
+
+6.  **Install Required Packages**
+    Finally, install all the necessary Python libraries listed in the requirements.txt file.
+    
+    ```bash
+    pip install -r requirements.txt
+    ```
+You are now ready to proceed with configuring the environment and running the application.
+
+7.  **Populate the Vector Database** (First-time setup)
     This step loads the MQA standards into the local vector database.
 
     ```bash
     python populate_db.py
     ```
 
-4.  **Add Source Resumes for Training** (First-time setup)
+8.  **Add Source Resumes for Training** (First-time setup)
     Place your collection of PDF resumes into the `resumes/` folder. These serve as the **source data** to generate a custom training dataset.
 
-5.  **Generate Training Data** (First-time setup)
+9.  **Generate Training Data** (First-time setup)
     This command processes the PDFs in the `resumes/` folder to create the training file.
 
     ```bash
