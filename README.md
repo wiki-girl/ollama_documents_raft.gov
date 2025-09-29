@@ -69,13 +69,15 @@ ollama_documents_raft.gov/
    This creates a new folder named MQA-Project and navigates you into it. All subsequent commands should be run from inside this directory.
    
 2.  **Clone the Repository**
-    Next, download the project files from GitHub into your new folder.
+
+     Next, download the project files from GitHub into your new folder.
 
     ```bash
     git clone https://github.com/wiki-girl/ollama_documents_raft.gov.git
     ```
 
 3.  **Navigate into the Project Directory**
+
     Move into the folder you just cloned.
 
     ```bash
@@ -83,6 +85,7 @@ ollama_documents_raft.gov/
     ```
     
 4.  **Create a Virtual Environment**
+   
     Create an isolated Python environment to avoid conflicts with other projects.
 
     ```bash
@@ -91,6 +94,7 @@ ollama_documents_raft.gov/
 This creates a venv folder inside your project directory.
 
 5.  **Activate the Virtual Environment**
+
     Activate the environment to start using it.
 
     ```bash
@@ -99,6 +103,7 @@ This creates a venv folder inside your project directory.
 You'll know it's active when you see (venv) at the beginning of your command prompt line.
 
 6.  **Install Required Packages**
+
     Finally, install all the necessary Python libraries listed in the requirements.txt file.
     
     ```bash
@@ -107,6 +112,7 @@ You'll know it's active when you see (venv) at the beginning of your command pro
 You are now ready to proceed with configuring the environment and running the application.
 
 7.  **Populate the Vector Database** (First-time setup)
+   
     This step loads the MQA standards into the local vector database.
 
     ```bash
@@ -114,9 +120,11 @@ You are now ready to proceed with configuring the environment and running the ap
     ```
 
 8.  **Add Source Resumes for Training** (First-time setup)
+   
     Place your collection of PDF resumes into the `resumes/` folder. These serve as the **source data** to generate a custom training dataset.
 
 9.  **Generate Training Data** (First-time setup)
+    
     This command processes the PDFs in the `resumes/` folder to create the training file.
 
     ```bash
@@ -132,6 +140,7 @@ You are now ready to proceed with configuring the environment and running the ap
 This is the recommended method for daily use.
 
 1.  **Launch the Application**
+   
     From your terminal, run the following command:
 
     ```bash
@@ -139,9 +148,11 @@ This is the recommended method for daily use.
     ```
 
 2.  **Access in Browser**
+   
     Open your web browser and navigate to `http://localhost:8501`.
 
 3.  **Upload & Verify**
+   
     Use the file uploader to select a CV, choose the academic program and level, and view the detailed verification report.
 
 ### ⚙️ Using the Command-Line Tools
