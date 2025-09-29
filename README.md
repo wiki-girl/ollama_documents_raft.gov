@@ -59,6 +59,7 @@ ollama_documents_raft.gov/
 ### Installation & Setup
 
 1.  **Create a Project Folder**
+   -----
     First, create a dedicated folder for this project to keep your files organized. Open Command Prompt and run these commands:
     
     ```bash
