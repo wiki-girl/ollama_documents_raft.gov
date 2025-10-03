@@ -1,0 +1,143 @@
+
+ROLE: You are an MQA Academic Qualification Verification Expert.
+
+TASK: Verify if the applicant is qualified to teach in the **Economics** program at MQF Level **7**.
+
+OUTPUT FORMAT:
+1. VERDICT: [✅/⚠️/❌] [Brief summary]
+2. QUALIFICATION ANALYSIS: [Detailed comparison with standards]
+3. GAPS IDENTIFIED: [Specific deficiencies if any]
+4. RECOMMENDATIONS: [Suggestions for compliance]
+
+REFERENCE EXAMPLES:
+EXAMPLE 1:
+Q: Education: bangsaan Malaysia, where she teaches courses in
+
+bangsaan Malaysia in 1991, her M.B.A.
+
+Banking and Finance, Applied Economics, Emerging
+
+bal Econom ic Review:Perspectives on East
+
+bscription in Fixed | Experience: 2005-2012, a journal
+published by the Malaysian Finance Association. At
+
+2011-2016. She served as th
+Context: Evaluating candidate for a Level 8 academic role in a Business faculty. A relevant degree in a business discipline is required.
+A: ❌ Not Qualified. Insufficient qualifications for Doctoral level teaching in Business.
+
+EXAMPLE 2:
+Q: Education: 2 
+2 
+5 PREVIOUS ACADEMIC AND OTHER RELEVANT 
+APPOINTMENTS   
+  Chronology of Services at UPM  
+ 3 
+6 TEACHING AND OTHER WORKING EXPERIENCE   
+  Graduate Level Courses  
+Diploma and Undergraduate Leve | Experience: Dr. Azali is a well trained Cardiff Business S chool graduate with vast experience 
+and excellent kn
+Context: Evaluating candidate for a Level 8 academic role in a Business faculty. A relevant degree in a business discipline is required.
+A: ✅ Qualified for Doctoral Level (PhD with additional business qualification)
+
+EXAMPLE 3:
+Q: Education: Badaruddin  (2005) Performance Measurement Systems: A tool in creative hotel 
+
+Bahru, Malaysia. Paper ID:266, pp. 
+
+basivan, M., Loke, S.P., Mohamed, Z.A. and Yee, C.L. (2011) Impact of 
+
+BSC for SME  | Experience: 1996-1997) 
+• Pengurus (199 7-1999) 
+
+1999-2005 ) 
+• Pensyarah Kanan  (2005-terkini)   
+
+2007-2008  
+Context: Evaluating candidate for a Level 8 academic role in a Business faculty. A relevant degree in a business discipline is required.
+A: ❌ Not Qualified. Insufficient qualifications for Doctoral level teaching in Business.
+
+APPLICANT DETAILS:
+DR. NURULHUD A BIN TI MOHD SA TAR 
+Senior Lectur erCurriculum Vitae
+Depar tment of E conomics
+Faculty of Business and E conomics
+ nurulhuda um.edu.my
+ +603-79673725
+ Resear cherID
+ Scopus A uthor ID
+ ORCID ID
+ Google Scholar
+ACADEMIC QU ALIFICA TION
+PhD. (UWM), (E conomics)
+Univ ersity of Wisconsin, Milwauk ee
+MEc.(Hons)(UM), (E conomics)
+Univ ersiti Mala ya (um)
+BEC, (EK ONOMI GUN AAN)
+Univ ersiti Mala ya (um)
+ADMINISTRA TIVE DUTIES
+Head of Depar tment
+01 Mar 2024 - pr esent  (Depar tment of E conomics, F aculty of Business and E conomics)
+Honor ary Publication Secr etary/Communication
+20 Jun 2024 - 20 Jun 2026  (National)
+Ahli Jawatankuasa P enilaian P embelajar an
+17 Dec 2021 - 16 Dec 2024  (Faculty)
+Jawatankuasa K urikulum F akulti bagi Pr ogram PhD
+10 Dec 2021 - 09 Dec 2024  (Faculty)
+Head of Depar tment
+20 Sep 2021 - 31 Dec 2023  (Depar tment of E conomics, F aculty of Business and E conomics)
+JK Tapisan (P erlantikan) dan JK Cuti Belajar & SL AB/SL AI
+08 Dec 2021 - 30 Sep 2023  (Faculty)
+Ahli Jawatankuasa K erja K ursi Tun Ismail Ali Chair (TI AC)
+20 Sep 2021 - 19 Sep 2023  (Deputy Dean (r esear ch) Office, F aculty of Business and E conomics)
+Task F orce Member
+03 F eb 2022 - 31 Dec 2022  (Univ ersity Mala ya)
+Honor ary Publication/Communication Secr etary Mala ysian E conomic Association
+29 Jul 2020 - 28 Jul 2022  (National)
+
+Deputy Dean of Under graduate
+16 Jan 2021 - 09 Sep 2021  (Dean 's Office, F aculty of E conomics & Administr ation)
+Quality Manager
+26 Jan 2021
+
+MQA STANDARDS:
+MQA Requirement Summary:
+Doctoral Degree (Level 8): Doctoral degree with 2+ years teaching/research experience OR Master's with extensive research experience and supervision record
+
+Detailed Standards:
+Table 5: Qualifications for academic staff
+MQF LEVEL: CERTIFICATE(LEVEL 3)
+REQUIREMENT: 
+i. A Bachelor’s Degree (Level 6, MQF) in the relevant business field;
+OR
+ii. A Bachelor’s Degree (Level 6, MQF) in non-related fields with 
+FIVE years of relevant working experience*.
+REMARK: Academic staff ratio
+i. At least 60% of the academic staff are full timers. 
+ii. Part-time staff may consist of industry practitioners or from academia. 
+iii. The minimum number of academic staff in the related field for each programme is 4**.
+iv. Staff-student ratio-1:30
+MQF LEVEL: DIPLOMA(LEVEL 4)
+REQUIREMENT: 
+i. A Bachelor’s Degree (Level 6, MQF) in the relevant business field;
+OR
+ii. A Bachelor’s Degree (Level 6, MQF) in non-related fields with TEN years of relevant working experience*.
+REMARK: Academic staff ratio
+i. At least 60% of the academic staff are full timers. 
+ii. Part-time staff may consist of industry practitioners or from academia.
+REMARK: Academic staff ratio
+i. At least 60% of the academic staff are full timers. 
+ii. Part-time staff may consist of industry practitioners or from academia. 
+iii. The minimum number of academic staff in the related field for each programme is 6**.
+iv. Staff-student ratio- 1:30
+MQF LEVEL: BACHELOR’S DEGREE(LEVEL 6)
+REQUIREMENT: 
+i. A Master’s Degree (Level 7, MQF) in the relevant business field;
+OR
+ii. Practitioners with a Bachelor’s degree in the relevant business field with the following work experience* may also be appointed as academic staff or co-supervisor: 
+a. At least FIVE years of relevant working experience* in senior management roles (General Manager and above) in the course taught; 
+OR
+b. At least TEN years of relevant working experience* in managerial roles (Senior Manager and Manager) in the course taught;
+OR
+OR
+ii. A Master’s deg
